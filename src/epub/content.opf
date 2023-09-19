@@ -44,9 +44,13 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008122157</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An older lothario interferes in the lives of a young married couple, driving them apart as each maintains their own innocence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;While on travels in the Mandarin Islands, Louis Trevelyan meets and then, on return to England, marries Emily Rowley, the eldest daughter of the governor of the Islands. They seem ideally suited, but Emily’s mother acutely spots a potential sore spot: they both like to have their “own way.”&lt;/p&gt;
+			&lt;p&gt;For two years, and with the birth of their child, all goes well. But when the philandering Colonel Osborne—a lifelong friend of Emily’s father—comes calling in the Trevelyan home, their equilibrium is disastrously unsettled. The young husband imperiously insists on the older man’s exclusion; the proud and insulted wife insists she has every right to see her father’s old friend in all innocence.&lt;/p&gt;
+			&lt;p&gt;This conflict sets in motion &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; epic study of pride, forgiveness and its lack, and especially pathological jealousy. Louis Trevelyan is the “he” of the book’s title, and his monomaniacal journey into a pyschological abyss is the novel’s central story. Equally, however, the book could have been titled &lt;i&gt;She Knew She Was Right&lt;/i&gt;, as that captures Emily’s core conviction equally well.&lt;/p&gt;
+			&lt;p&gt;In his autobiography, Trollope made the frank confession: “I look upon the story as being nearly altogether bad.” He felt he had failed to create some sense of sympathy for the main protagonist that he had mind at the story’s inception. Later critics have not followed the author’s judgment. Trollope’s handling of Trevelyan’s mental claustrophobia and burgeoning paranoia is considered one of his finest achievements of psychological depiction. Then, too, he considered the novel’s rich and complex subplots to be more successful than its central story—another failing. Yet these are not simply random tales bolted on to the main action: rather, each of the several strands depicts characters who are headstrong, each of whom prefers their “own way,” and yet without the tragic consequences that follow Trevelyan’s story, even holding possibilities of redemption. Artistically, they also display a lightness of touch that counterbalances the darker main thread.&lt;/p&gt;
+			&lt;p&gt;Trollope includes a number of direct quotations from, and allusions to, &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; tragedy, &lt;a href="https://standardebooks.org/ebooks/william-shakespeare/othello"&gt;&lt;i&gt;Othello&lt;/i&gt;&lt;/a&gt;, another story of destructive and misplaced sexual jealousy. Trollope’s transformations of the older work demonstrate both his fine imagination and his assured technical skill in this extraordinary novel. Frank Kermode is certainly justified in calling &lt;i&gt;He Knew He Was Right&lt;/i&gt; “in some respects [Trollope’s] most striking achievement.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5140</dc:source>
@@ -58,14 +62,14 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_he-knew-he-was-right</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
 		<meta property="file-as" refines="#author">Trollope, Anthony</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Gustave Courbet</dc:contributor>
+		<meta property="file-as" refines="#artist">Courbet, Gustave</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Jean Désiré Gustave Courbet</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gustave_Courbet</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80057228</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Andrew Turek</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Turek, Andrew</meta>
