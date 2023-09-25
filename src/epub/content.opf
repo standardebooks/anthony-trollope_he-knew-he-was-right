@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-trollope/he-knew-he-was-right</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-09-25T18:57:47Z</dc:date>
+		<meta property="dcterms:modified">2023-09-25T18:57:47Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,17 +46,17 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An older lothario interferes in the lives of a young married couple, driving them apart as each maintains their own innocence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;While on travels in the Mandarin Islands, Louis Trevelyan meets and then, on return to England, marries Emily Rowley, the eldest daughter of the governor of the Islands. They seem ideally suited, but Emily’s mother acutely spots a potential sore spot: they both like to have their “own way.”&lt;/p&gt;
+			&lt;p&gt;While on travels in the Mandarin Islands, Louis Trevelyan meets and then, on return to England, marries Emily Rowley, the eldest daughter of the governor of the Islands. They seem ideally suited, but Emily’s mother spots a potential sore spot: they both like to have their “own way.”&lt;/p&gt;
 			&lt;p&gt;For two years, and with the birth of their child, all goes well. But when the philandering Colonel Osborne—a lifelong friend of Emily’s father—comes calling in the Trevelyan home, their equilibrium is disastrously unsettled. The young husband imperiously insists on the older man’s exclusion; the proud and insulted wife insists she has every right to see her father’s old friend in all innocence.&lt;/p&gt;
-			&lt;p&gt;This conflict sets in motion &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; epic study of pride, forgiveness and its lack, and especially pathological jealousy. Louis Trevelyan is the “he” of the book’s title, and his monomaniacal journey into a pyschological abyss is the novel’s central story. Equally, however, the book could have been titled &lt;i&gt;She Knew She Was Right&lt;/i&gt;, as that captures Emily’s core conviction equally well.&lt;/p&gt;
-			&lt;p&gt;In his autobiography, Trollope made the frank confession: “I look upon the story as being nearly altogether bad.” He felt he had failed to create some sense of sympathy for the main protagonist that he had mind at the story’s inception. Later critics have not followed the author’s judgment. Trollope’s handling of Trevelyan’s mental claustrophobia and burgeoning paranoia is considered one of his finest achievements of psychological depiction. Then, too, he considered the novel’s rich and complex subplots to be more successful than its central story—another failing. Yet these are not simply random tales bolted on to the main action: rather, each of the several strands depicts characters who are headstrong, each of whom prefers their “own way,” and yet without the tragic consequences that follow Trevelyan’s story, even holding possibilities of redemption. Artistically, they also display a lightness of touch that counterbalances the darker main thread.&lt;/p&gt;
-			&lt;p&gt;Trollope includes a number of direct quotations from, and allusions to, &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; tragedy, &lt;a href="https://standardebooks.org/ebooks/william-shakespeare/othello"&gt;&lt;i&gt;Othello&lt;/i&gt;&lt;/a&gt;, another story of destructive and misplaced sexual jealousy. Trollope’s transformations of the older work demonstrate both his fine imagination and his assured technical skill in this extraordinary novel. Frank Kermode is certainly justified in calling &lt;i&gt;He Knew He Was Right&lt;/i&gt; “in some respects [Trollope’s] most striking achievement.”&lt;/p&gt;
+			&lt;p&gt;This conflict sets in motion &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; epic study of pride, forgiveness and its lack, and pathological jealousy. Louis Trevelyan is the “he” of the book’s title, and his monomaniacal journey into a psychological abyss is the novel’s central story. Equally, however, the book could have been titled &lt;i&gt;She Knew She Was Right&lt;/i&gt;, as that captures Emily’s core conviction equally well.&lt;/p&gt;
+			&lt;p&gt;In his autobiography, Trollope made the frank confession: “I look upon the story as being nearly altogether bad.” He felt he had failed to create some sense of sympathy for the main protagonist that he had in mind at the story’s inception. Later critics haven’t agreed with Trollope’s judgment. His handling of Trevelyan’s mental claustrophobia and burgeoning paranoia is considered to be one of his finest achievements of psychological depiction in literature. Trollope also considered the novel’s rich and complex subplots to be more successful than its central story—another failing, in his estimation. Yet these subplots aren’t random tales bolted on to the main action: rather, each of the strands depicts characters who are headstrong, preferring their “own way,” and yet without the tragic consequences of Trevelyan’s story. They even hint at the possibility of redemption. Artistically, they also display a lightness of touch that counterbalances the darker main thread.&lt;/p&gt;
+			&lt;p&gt;Trollope includes a number of direct quotations from, and allusions to, &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; tragedy &lt;a href="https://standardebooks.org/ebooks/william-shakespeare/othello"&gt;&lt;i&gt;Othello&lt;/i&gt;&lt;/a&gt;, another story of destructive and misplaced sexual jealousy. Trollope’s transformations of the older work demonstrate both his fine imagination and his assured technical skill in this extraordinary novel. Frank Kermode is certainly justified in calling &lt;i&gt;He Knew He Was Right&lt;/i&gt; “in some respects [Trollope’s] most striking achievement.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5140</dc:source>
 		<dc:source>https://books.google.com/books?id=Eqw8AAAAYAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">346439</meta>
+		<meta property="se:reading-ease.flesch">79.8</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/He_Knew_He_Was_Right</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_he-knew-he-was-right</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
@@ -89,6 +89,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
