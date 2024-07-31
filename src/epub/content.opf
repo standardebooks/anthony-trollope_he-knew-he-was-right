@@ -55,7 +55,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5140</dc:source>
 		<dc:source>https://books.google.com/books?id=Eqw8AAAAYAAJ</dc:source>
-		<meta property="se:word-count">346438</meta>
+		<meta property="se:word-count">346432</meta>
 		<meta property="se:reading-ease.flesch">79.8</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/He_Knew_He_Was_Right</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_he-knew-he-was-right</meta>
